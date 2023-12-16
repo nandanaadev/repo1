@@ -1,0 +1,27 @@
+.modal-body
+    {
+        background-color: #801010;
+    }
+
+    .temp
+        {
+            background-color: #801010;
+            color: aliceblue;
+            font-size: larger;
+            text-align: center;
+        }
+
+.red
+        {
+            background-color: #801010;
+        }
+.makeway
+        {
+            background-color: rgb(0, 0, 0);
+            color: rgb(255, 255, 255);
+        }
+
+.space
+        {
+            width: 500px;
+        }
